@@ -1,0 +1,1 @@
+sigal build -f
